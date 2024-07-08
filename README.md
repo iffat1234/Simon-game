@@ -6,13 +6,13 @@ The game will generate a random sequence of colored buttons.Your objective is to
 
 # Technologies used
 JavaScript
-HTML
-CSS
+,HTML
+,CSS
 
 # Features
 Colorful interface
-Dynamic gameplay
-Score tracking
+,Dynamic gameplay
+,Score tracking
 
 # Usage
 Clone the repository , open the index.html,and play the game!
